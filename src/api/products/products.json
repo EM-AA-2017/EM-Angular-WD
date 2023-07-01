@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "John Harrison first Chronometer",
+    "productCode": "H1 Marine Timekeeper",
+    "releaseDate": "May 1736",
+    "description": "First mechanical Chronomoter led to the ability to measure Longitude at sea from GMT",
+    "price": 10000.00,
+    "starRating": 4.0,
+    "imageUrl": "assets/images/LongitudeChronometer.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "John Harrison first pocket Chronometer",
+    "productCode": "H4 Marine Timekeeper",
+    "releaseDate": "May 1752",
+    "description": "First pocket Chronometer, 5 ticks per second, easier to manage at sea for measuring longitude",
+    "price": 10000.00,
+    "starRating": 5.0,
+    "imageUrl": "assets/images/h4Chronometer.jpg"
+  },
+  {
+    "productId": 10,
+    "productName": "Thomas Mudge 1st Perpetual Calendar watch",
+    "productCode": "No. 574",
+    "releaseDate": "1764",
+    "description": "first mechanical watch with a perpetual calendar mechanism, will only need an adjustment in 2100 when the leap year is skipped",
+    "price": 10000.00,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/MudgePerpetual.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "WW1 Trench Watch",
+    "productCode": "First men wristwatches",
+    "releaseDate": "1914-1917",
+    "description": "pocket watches with soldered loops for the trenches, some had shrapnel metal protectors",
+    "price": 1000.00,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/TrenchWatch.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "JLC Reverso",
+    "productCode": "Polo Reverso",
+    "releaseDate": "1931",
+    "description": "Jaeger-LeCoultre developed for Polo players to flip and protect their watch",
+    "price": 40000.00,
+    "starRating": 4.7,
+    "imageUrl": "assets/images/JLCreverso.jpg"
+  }
+]
